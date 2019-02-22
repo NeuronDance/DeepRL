@@ -17,6 +17,9 @@
 ### 2、什么是深度强化学习
 AI = DL(Deep Learning) + RL(Reinforcement Learning)
 
+
+---
+
 ### 3、深度强化学习有哪些应用？
 在深度学习已经取得了很大的进步的基础上，深度强化学习真正的发展归功于神经网络、深度学习以及计算力的提升，David就是使用了神经网络逼近值函数后，开启了一门新的研究方向：深度强化学习（Deep Reinforcement Learning，DRL），又一发不可收拾的证明了确定性策略等。纵观近四年的ICML，NPIS等顶级会议论文，强化学习的理论进步，应用领域逐渐爆发式增广，目前已经在如下领域有了广泛使用:
 >
@@ -35,6 +38,7 @@ AI = DL(Deep Learning) + RL(Reinforcement Learning)
 + 物理化学实验：定量实验，核素碰撞，粒子束流调试等
 + 程序学习和网络安全：网络攻防等
 
+---
 
 ### 4、一流研究机构有哪些?
 #### DeepMind [直接访问](https://deepmind.com/)
@@ -63,32 +67,46 @@ OpenAI是一个非营利性人工智能（AI）研究组织，旨在促进和发
 + 2018年，OpenAI总部位于旧金山的Mission区，与Musk共同创办的另一家公司Neuralink共享一座办公楼。
 #### UC Berkeley [直接访问]()
 
+---
+
 ### 5、业界大佬有哪些？
-David Sliver(DeepMind)
-![](assets/markdown-img-paste-2019022217315723.png)
+![](assets/markdown-img-paste-20190222191015730.png)
+顺序从左往右：
+>
++ （1）Richard Sutton[个人主页](http://incompleteideas.net/)<br>
+强化学习的祖师爷，著有《Reinforcement Learning: An Introduction》
 
++ （2）David Sliver(DeepMind)<br>
+AlphaGo、AlphaStar掌门人，UCL公开课主讲人
 
-Oriol Vinyals[DeepMind]
-![](assets/markdown-img-paste-20190222173629991.png)
++ （3）Oriol Vinyals[DeepMind]<br>
+AlphaStar主要负责人
 
-Pieter Abbeel(UC Berkeley)
-![](assets/markdown-img-paste-20190222173242122.png)
++ （4）Pieter Abbeel(UC Berkeley)<br>
+机器人和强化学习专家
+
+---
 
 ### 6、怎么学习深度强化学习
-[学习课程]()
-[竞赛]()
+[点击进入学习主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86)
 
 ### 7、最新前沿动态
 
-[点查看进入]()
+[查看最新大事件](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E4%BB%B6)
 
-### 致谢
+---
+### @致谢
 为了表示对每一位贡献者的感谢，本栏目将贡献者一一列举，排名不分先后：
 
-发起人：J.Q.Wang(@Jin0932)<br>
-贡献者：###(@github-accountname)
+发起人：J.Q.Wang<br>
+贡献者：#贡献人名字#(“仓库名”)
+
+---
 
 #### 联系我们
-E-mail：wjq_z@qq.com
+E-mail：wjq_z@qq.com<br>
+CSDN博客：[深度强化学习(DRL)探索](https://blog.csdn.net/gsww404)<br>
+知乎专栏：[DeepRL探索](zhuanlan.zhihu.com/deeprl), [DRL论文解读](zhuanlan.zhihu.com/drl-paper), [DRL学习](zhuanlan.zhihu.com/drl-learning)<br>
+微信公众号：
 
 ![](assets/markdown-img-paste-20190222165438977.png)
