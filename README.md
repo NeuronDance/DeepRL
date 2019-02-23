@@ -108,7 +108,7 @@ AlphaStar主要负责人
 
 **发起人**：J.Q.Wang<br>
 
-**贡献者**：格式为：@仓库名（名字）<br>
+**贡献者**：格式为：@GitHub账户名（名字）<br>
 
 
 @taoyafan([陶亚凡](https://github.com/taoyafan))
