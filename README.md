@@ -93,11 +93,14 @@ AlphaStar主要负责人
 ---
 
 ### 6、怎么学习深度强化学习
-[点击进入学习主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86)
+[点击进入【基础与课程学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86)<br>
+[点击进入【组队竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E7%AB%9E%E8%B5%9B)
 
 ### 7、最新前沿动态
 
-[查看最新大事件](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E4%BB%B6)
+#### 进展： 【2019.2.22】
+英国AI公司DeepMind开源了机器人足球模拟环境MuJoCo Soccer，实现了对2v2足球赛的模拟。虽然球员的样子比较简单（也是个球），但DeepMind让它们在强化学习中找到了团队精神。热爱足球游戏的网友仿佛嗅到了它前景：你们应该去找EA合作FIFA游戏！详情查看更多链接！<br>
+[查看更多最新大事件](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E4%BB%B6)
 
 ---
 ### @致谢
