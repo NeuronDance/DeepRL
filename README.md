@@ -124,7 +124,7 @@ AlphaStar主要负责人
 #### 联系方式
 E-mail：wjq_z@qq.com<br>
 CSDN博客：[深度强化学习(DRL)探索](https://blog.csdn.net/gsww404)<br>
-知乎专栏：[DeepRL探索](zhuanlan.zhihu.com/deeprl), [DRL论文解读](zhuanlan.zhihu.com/drl-paper), [DRL学习](zhuanlan.zhihu.com/drl-learning)<br>
+知乎专栏：[DeepRL探索](https://zhuanlan.zhihu.com/deeprl), [DRL论文解读](https://zhuanlan.zhihu.com/drl-paper), [DRL学习](https://zhuanlan.zhihu.com/drl-learning)<br>
 微信公众号：
 
 ![](assets/markdown-img-paste-20190222165438977.png)
