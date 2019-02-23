@@ -106,10 +106,12 @@ AlphaStar主要负责人
 ### @致谢
 为了表示对每一位贡献者的感谢，本栏目将贡献者一一列举，排名不分先后：
 
-发起人：J.Q.Wang<br>
+**发起人**：J.Q.Wang<br>
 
-贡献者：格式为：@仓库名（名字(部分可直接进入其仓库)）<br>
-      @taoyafan([陶亚凡](https://github.com/taoyafan))
+**贡献者**：格式为：@仓库名（名字）<br>
+
+
+@taoyafan([陶亚凡](https://github.com/taoyafan))
 
 ---
 
