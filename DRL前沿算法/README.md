@@ -2,8 +2,10 @@
 
 ## DRL开山之作
 Deep Mind 使用 DQN 让机器人玩 Atari 游戏并达到（超越）人类顶级选手水平：
-[Playing Atari with Deep Reinforcement Learning(2013)](https://arxiv.org/pdf/1312.5602.pdf)
-[Human-level control through deep reinforcement learning(2015)](https://daiwk.github.io/assets/dqn.pdf)
+
++ [Playing Atari with Deep Reinforcement Learning(2013)](https://arxiv.org/pdf/1312.5602.pdf)
+
++ [Human-level control through deep reinforcement learning(2015)](https://daiwk.github.io/assets/dqn.pdf)
 
 ## AlphaGo 及后续
 AlphaGo: [Mastering the game of Go with deep neural networks and tree search(2016)](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
