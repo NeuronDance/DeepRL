@@ -109,7 +109,7 @@ AlphaStar主要负责人
 **贡献者**：格式为：@GitHub账户名（名字）<br>
 
 
-@taoyafan([陶亚凡](https://github.com/taoyafan))
+@taoyafan([陶亚凡](https://github.com/taoyafan)),@BluesChang([Name](https://github.com/BluesChang))
 
 ---
 
