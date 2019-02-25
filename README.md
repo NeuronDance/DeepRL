@@ -94,8 +94,8 @@ AlphaStar主要负责人
 
 ### 6、怎么学习深度强化学习
 [点击进入【基础与课程学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86)<br>
-[点击进入【组队竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E7%AB%9E%E8%B5%9B)
-
+[点击进入【竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E7%AB%9E%E8%B5%9B)
+[【开源框架学习】]()
 ### 7、最新前沿动态
 
 #### 进展： 【2019.2.22】
