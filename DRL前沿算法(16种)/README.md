@@ -16,9 +16,9 @@ Deep Mind 使用 DQN 让机器人玩 Atari 游戏并达到（超越）人类顶�
 + AlphaZero: [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm(2017)](https://arxiv.org/pdf/1712.01815.pdf)
 
 ## DQN 改进
-+ Dueling DQN: [Code](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%89%8D%E6%B2%BF%E7%AE%97%E6%B3%95/Dueling-DQN)[Dueling Network Architectures for Deep Reinforcement Learning(2015)](https://arxiv.org/pdf/1511.06581.pdf)
++ Dueling DQN: [【Code】](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%89%8D%E6%B2%BF%E7%AE%97%E6%B3%95/Dueling-DQN)，[Dueling Network Architectures for Deep Reinforcement Learning(2015)](https://arxiv.org/pdf/1511.06581.pdf)
 
-+ Double DQN: [Code](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%89%8D%E6%B2%BF%E7%AE%97%E6%B3%95/Dueling-DQN) [Deep Reinforcement Learning with Double Q-learning(2015)](https://arxiv.org/pdf/1509.06461.pdf)
++ Double DQN: [【Code】](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%89%8D%E6%B2%BF%E7%AE%97%E6%B3%95/Dueling-DQN) ，[Deep Reinforcement Learning with Double Q-learning(2015)](https://arxiv.org/pdf/1509.06461.pdf)
 
 + NAF: [Continuous Deep Q-Learning with Model-based Acceleration(2016)](https://arxiv.org/pdf/1603.00748.pdf)
 [PRIORITIZED EXPERIENCE REPLAY(2015)](https://arxiv.org/pdf/1511.05952.pdf)
