@@ -76,18 +76,19 @@ OpenAI是一个非营利性人工智能（AI）研究组织，旨在促进和发
 ![](assets/markdown-img-paste-20190222191015730.png)
 顺序从左往右：
 >
-+ （1）Richard Sutton[个人主页](http://incompleteideas.net/)<br>
++ （1）**Richard Sutton**
+[个人主页](http://incompleteideas.net/)<br>
 强化学习的祖师爷，著有《Reinforcement Learning: An Introduction》
 
-+ （2）David Sliver[DeepMind]<br>
++ （2）**David Sliver[DeepMind]**<br>
 AlphaGo、AlphaStar掌门人，UCL公开课主讲人<br>
 [【个人主页】](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html),[【Google学术】](https://scholar.google.com/citations?user=-8DNE4UAAAAJ&hl=zh-CN)<br>
-工作重点是将强化学习与深度学习相结合，包括一个学习直接从像素中学习Atari游戏的程序。Silver领导了AlphaGo项目，最终推出了第一个在Go全尺寸游戏中击败顶级职业玩家的计划。 AlphaGo随后获得了荣誉9丹专业认证;并因创新而获得戛纳电影节奖。然后他领导了AlphaZero的开发，它使用相同的AI来学习玩从头开始（仅通过自己玩而不是从人类游戏中学习），然后学习以相同的方式下棋和将棋，比任何其他计算机更高的水平方案
+他工作重点是将强化学习与深度学习相结合，包括一个学习直接从像素中学习Atari游戏的程序。Silver领导了AlphaGo项目，最终推出了第一个在Go全尺寸游戏中击败顶级职业玩家的计划。 AlphaGo随后获得了荣誉9丹专业认证;并因创新而获得戛纳电影节奖。然后他领导了AlphaZero的开发，它使用相同的AI来学习玩从头开始（仅通过自己玩而不是从人类游戏中学习），然后学习以相同的方式下棋和将棋，比任何其他计算机更高的水平方案
 
-+ （3）Oriol Vinyals[DeepMind]<br>
++ （3）**Oriol Vinyals[DeepMind]**<br>
 AlphaStar主要负责人
 
-+ （4）Pieter Abbeel[UC Berkeley]<br>
++ （4）**Pieter Abbeel[UC Berkeley]**<br>
 [【个人主页】](http://people.eecs.berkeley.edu/~pabbeel/),[【Google学术】](https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=zh-CN)
 >
 + 机器人和强化学习专家 加州大学伯克利分校教授，EECS，BAIR，CHAI（2008-）
@@ -119,7 +120,7 @@ AlphaStar主要负责人
 格式为：*@GitHub账户名（点击进入作者仓库）*<br>
 
 
-@taoyafan([陶亚凡](https://github.com/taoyafan)),@BluesChang([Name](https://github.com/BluesChang))，@Wangergou123[Name](https://github.com/Wangergou123)
+@taoyafan([陶亚凡](https://github.com/taoyafan)),@BluesChang([Name](https://github.com/BluesChang))，@Wangergou123([Name](https://github.com/Wangergou123))
 
 ---
 
