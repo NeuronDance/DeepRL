@@ -80,20 +80,28 @@ OpenAI是一个非营利性人工智能（AI）研究组织，旨在促进和发
 强化学习的祖师爷，著有《Reinforcement Learning: An Introduction》
 
 + （2）David Sliver[DeepMind]<br>
-AlphaGo、AlphaStar掌门人，UCL公开课主讲人
+AlphaGo、AlphaStar掌门人，UCL公开课主讲人<br>
+[【个人主页】](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html),[【Google学术】](https://scholar.google.com/citations?user=-8DNE4UAAAAJ&hl=zh-CN)<br>
+工作重点是将强化学习与深度学习相结合，包括一个学习直接从像素中学习Atari游戏的程序。Silver领导了AlphaGo项目，最终推出了第一个在Go全尺寸游戏中击败顶级职业玩家的计划。 AlphaGo随后获得了荣誉9丹专业认证;并因创新而获得戛纳电影节奖。然后他领导了AlphaZero的开发，它使用相同的AI来学习玩从头开始（仅通过自己玩而不是从人类游戏中学习），然后学习以相同的方式下棋和将棋，比任何其他计算机更高的水平方案
 
 + （3）Oriol Vinyals[DeepMind]<br>
 AlphaStar主要负责人
 
 + （4）Pieter Abbeel[UC Berkeley]<br>
-机器人和强化学习专家
+[【个人主页】](http://people.eecs.berkeley.edu/~pabbeel/),[【Google学术】](https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=zh-CN)
+>
++ 机器人和强化学习专家 加州大学伯克利分校教授，EECS，BAIR，CHAI（2008-）
++ 伯克利机器人学习实验室主任，伯克利人工智能研究（BAIR）实验室联合主任
++ 联合创始人，总裁兼首席科学家covariant.ai（2017-）
++ 研究科学家（2016-2017），顾问（2018-）OpenAI
++ 联合创始人Gradescope（2014-2018：TurnItIn收购）
 
 ---
 
 ### 5、怎么学习深度强化学习
 [点击进入【基础与课程学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86)<br>
 [点击进入【竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E7%AB%9E%E8%B5%9B)<br>
-[点击进入【开源框架学习】主页]()
+[点击进入【开源框架学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
 
 ### 6、最新前沿动态
 
@@ -107,10 +115,11 @@ AlphaStar主要负责人
 
 **发起人**：J.Q.Wang<br>
 
-**贡献者**：格式为：@GitHub账户名（名字）<br>
+**贡献者**：<br>
+格式为：*@GitHub账户名（点击进入作者仓库）*<br>
 
 
-@taoyafan([陶亚凡](https://github.com/taoyafan)),@BluesChang([Name](https://github.com/BluesChang))
+@taoyafan([陶亚凡](https://github.com/taoyafan)),@BluesChang([Name](https://github.com/BluesChang))，@Wangergou123[Name](https://github.com/Wangergou123)
 
 ---
 
