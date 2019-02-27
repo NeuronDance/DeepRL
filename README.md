@@ -100,7 +100,7 @@ AlphaStar主要负责人
 ---
 
 ### 5、怎么学习深度强化学习
-[狂补【人工智能领域】数学基础]()
+[狂补【人工智能领域】数学基础](https://github.com/NeuronDance/DeepRL/tree/master/AI%E5%9F%BA%E7%A1%80%E4%B8%8E%E8%B5%84%E6%96%99)<br>
 [点击进入【基础与课程学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86)<br>
 [点击进入【竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E7%AB%9E%E8%B5%9B)<br>
 [点击进入【开源框架学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
@@ -111,15 +111,20 @@ AlphaStar主要负责人
 英国AI公司DeepMind开源了机器人足球模拟环境MuJoCo Soccer，实现了对2v2足球赛的模拟。虽然球员的样子比较简单（也是个球），但DeepMind让它们在强化学习中找到了团队精神。热爱足球游戏的网友仿佛嗅到了它前景：你们应该去找EA合作FIFA游戏！详情查看更多链接！<br>
 [查看更多最新大事件](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E4%BB%B6)
 
+
 ---
+
 ### @致谢
+** 欢迎每一位伙伴积极为项目贡献微薄之力，共同点亮星星之火[Github贡献方法](https://zhuanlan.zhihu.com/p/23457016)** <br>
+
 为了表示对每一位贡献者的感谢，本栏目将贡献者一一列举，排名不分先后：
 
 **发起人**：J.Q.Wang<br>
 
-**贡献者**：<br>
-格式为：*@GitHub账户名（点击进入作者仓库）*<br>
+**贡献者列表**：<br>
+*@GitHub账户名（点击进入作者仓库）*<br>
 
+---
 
 @taoyafan([陶亚凡](https://github.com/taoyafan)),@BluesChang([Name](https://github.com/BluesChang))，@Wangergou123([Name](https://github.com/Wangergou123))
 
