@@ -122,11 +122,11 @@ AlphaStar主要负责人
 **发起人**：J.Q.Wang<br>
 
 **贡献者列表**：<br>
-*@GitHub账户名（点击进入作者仓库）*<br>
+*@GitHub账户名*<br>
 
 ---
 
-@taoyafan([陶亚凡](https://github.com/taoyafan)),@BluesChang([Name](https://github.com/BluesChang))，@Wangergou123([Name](https://github.com/Wangergou123))
+@[taoyafan](https://github.com/taoyafan),@[BluesChang](https://github.com/BluesChang)，@[Wangergou123](https://github.com/Wangergou123),@[TianLin0509](https://github.com/TianLin0509)
 
 ---
 
