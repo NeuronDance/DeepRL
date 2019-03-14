@@ -1,5 +1,7 @@
 # Trust Region Policy Optimization
 
+> 注意：为了友好显示latex公式，请大家自行加载google浏览器latex数学显示插件：[MathJax Plugin for Github点击进入下载页面](https://github.com/mathjax/MathJax/releases)
+
 这篇文章是policy gradient方面很经典的一篇文章，作者是John Schulman, Sergey Levine, Philipp Moritz, Michael Jordan, Pieter Abbeel。
 
 稍微多提一句，Michael Jordan是吴恩达的老师，是统计学派的领军人物。而Pieter Abbeel是吴恩达的徒弟。Sergey Levine是Abbeel的博后，John Schulman也是师从Abbeel。这里Abbeel的学生都是来自UCB的，他们大多和OpenAI有所交集。一作Schulman现在在领导OpenAI团队的Games Team。二作Levine目前在教UCB的cs294课程，质量很高。
