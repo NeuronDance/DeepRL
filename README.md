@@ -126,7 +126,7 @@ AlphaStar主要负责人
 
 ---
 
-@[taoyafan](https://github.com/taoyafan),@[BluesChang](https://github.com/BluesChang)，@[Wangergou123](https://github.com/Wangergou123),@[TianLin0509](https://github.com/TianLin0509)，@[zanghyu](https://github.com/zanghyu)
+@[taoyafan](https://github.com/taoyafan),@[BluesChang](https://github.com/BluesChang)，@[Wangergou123](https://github.com/Wangergou123),@[TianLin0509](https://github.com/TianLin0509)，@[zanghyu](https://github.com/zanghyu),@[hijkzzz](https://github.com/hijkzzz)
 
 ---
 
