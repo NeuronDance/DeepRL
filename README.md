@@ -107,9 +107,10 @@ AlphaStar主要负责人
 
 ### 6、最新前沿动态
 
-#### 进展： 【2019.2.22】
-英国AI公司DeepMind开源了机器人足球模拟环境MuJoCo Soccer，实现了对2v2足球赛的模拟。虽然球员的样子比较简单（也是个球），但DeepMind让它们在强化学习中找到了团队精神。热爱足球游戏的网友仿佛嗅到了它前景：你们应该去找EA合作FIFA游戏！详情查看更多链接！<br>
-[查看更多最新大事件](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E4%BB%B6)
+#### 业界最新资讯：【2019.8.28】
+**DeepMind重磅开源强化学习框架OpenSpiel**
+在这个框架中，实现了28款可用于研究强化学习的棋牌类游戏和24个强化学习中常用的算法，DeepMind的成名作AlphaGo的基础算法也在其列。
+[查看更多最新大事件及详细信息](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E4%BB%B6)
 
 
 ---
