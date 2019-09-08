@@ -105,7 +105,11 @@ AlphaStar主要负责人
 [点击进入【竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E7%AB%9E%E8%B5%9B)<br>
 [点击进入【开源框架学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
 
-### 6、最新前沿动态
+### 6.人工智能顶级会议-DRL-paper资料与内容分享
+[点击查看最新顶会论文【NIPS2019】](https://github.com/NeuronDance/DeepRL/blob/master/DRL顶会论文资料与解读/NIPS2019/NIPS2019.md)
+[点击查看更多人工智能顶会论文](https://github.com/NeuronDance/DeepRL/tree/master/DRL顶会论文资料与解读)
+
+### 7、最新前沿动态
 
 #### 业界最新资讯：【2019.8.28】
 **DeepMind重磅开源强化学习框架OpenSpiel**
