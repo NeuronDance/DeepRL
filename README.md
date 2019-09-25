@@ -144,7 +144,7 @@ AlphaGo、AlphaStar掌门人，UCL公开课主讲人 || [【个人主页】](htt
 #### 联系方式
 E-mail：wjq_z@qq.com<br>
 CSDN博客：[深度强化学习(DRL)探索](https://blog.csdn.net/gsww404)<br>
-知乎专栏：[DeepRL探索](https://zhuanlan.zhihu.com/deeprl), [DRL论文解读](https://zhuanlan.zhihu.com/drl-paper)<br>
+知乎专栏：[DeepRL探索](https://zhuanlan.zhihu.com/deeprl), [DRL论文解读](https://zhuanlan.zhihu.com/drl-paper), [DRL学习](https://zhuanlan.zhihu.com/drl-learning)<br>
 微信公众号：
 
 ![](assets/markdown-img-paste-20190222165438977.png)
