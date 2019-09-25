@@ -91,7 +91,7 @@ OpenAI是一个非营利性人工智能（AI）研究组织，旨在促进和发
 
 
 + （4）**Pieter Abbeel[UC Berkeley]** [【个人主页】](http://people.eecs.berkeley.edu/~pabbeel/),[【Google学术】](https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=zh-CN)
->机器人和强化学习专家 加州大学伯克利分校教授，EECS，BAIR，CHAI（2008-）
+> 机器人和强化学习专家 加州大学伯克利分校教授，EECS，BAIR，CHAI（2008-）
 伯克利机器人学习实验室主任，伯克利人工智能研究（BAIR）实验室联合主任
 联合创始人，总裁兼首席科学家covariant.ai（2017-）
 研究科学家（2016-2017），顾问（2018-）OpenAI
