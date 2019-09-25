@@ -66,3 +66,10 @@ Deep Mind 使用 DQN 让机器人玩 Atari 游戏并达到（超越）人类顶�
 + [Deep Reinforcement Learning Papers](https://github.com/muupan/deep-reinforcement-learning-papers)
 
 + [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+
++ [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+
+
+
+## 致谢
+@J.Q.Wang
