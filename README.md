@@ -143,7 +143,6 @@ AlphaStar主要负责人
 #### 交流方式
 [1]、Google[网上论坛](https://groups.google.com/forum/?hl=zh-CN#!forum/deeprl)[需科学上网]<br>
 [2]、微信群聊：加微信助手：NeuronDance，邀请进群<br>
-[3]、QQ群：617458178
 
 #### 联系方式
 E-mail：wjq_z@qq.com<br>
