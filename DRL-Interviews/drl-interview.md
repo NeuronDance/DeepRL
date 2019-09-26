@@ -181,6 +181,7 @@
 > ![](assets/interview-25.png)
 
 参考[文章](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)
+
 26. 描述随机策略和确定性策略的特点？
 > 随机策略表示为某个状态下动作取值的分布，确定性策略在每个状态只有一个确定的动作可以选。
 >从熵的角度来说，确定性策略的熵为0，没有任何随机性。随机策略有利于我们进行适度的探索，确定
