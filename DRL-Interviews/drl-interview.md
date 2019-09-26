@@ -160,13 +160,32 @@
 >
 >![](assets/interview-21-3.png)
 >
->更多的关于TD(lambda)参考[文章](https://amreis.github.io/ml/reinf-learn/2017/11/02/reinforcement-learning-eligibility-traces.html)
+>更多的关于TD(lambda)细节参考[文章](https://amreis.github.io/ml/reinf-learn/2017/11/02/reinforcement-learning-eligibility-traces.html)
 
 22. value-based和policy-based的区别是什么？
+> value-based通过求解最优值函数间接的求解最优策略；policy-based的方法直接将策略参数化，
+>通过策略搜索，策略梯度或者进化方法来更新策略的参数以最大化回报。基于值函数的方法不易扩展到
+>连续动作空间，并且当同时采用非线性近似、自举和离策略时会有收敛性问题。策略梯度具有良好的
+>收敛性证明。
 23. DQN的两个关键trick分别是什么？
+> 使用目标网络(target network)来缓解训练不稳定的问题；经验回放
+
 24. 阐述目标网络和experience replay的作用？
+> 在DQN中某个动作值函数的更新依赖于其他动作值函数。如果我们一直更新值网络的参数，会导致
+>更新目标不断变化，也就是我们在追逐一个不断变化的目标，这样势必会不太稳定。引入目标网络就是把
+>更新目标中不断变化的值先稳定一段时间，更新参数，然后再更新目标网络。这样在一定的阶段内
+>目标是固定的，训练也更稳定。
+>
+>经验回放应该是为了消除样本之间的相关性。
 25. 手工推导策略梯度过程？
+> ![](assets/interview-25.png)
+
+参考[文章](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)
 26. 描述随机策略和确定性策略的特点？
+> 随机策略表示为某个状态下动作取值的分布，确定性策略在每个状态只有一个确定的动作可以选。
+>从熵的角度来说，确定性策略的熵为0，没有任何随机性。随机策略有利于我们进行适度的探索，确定
+>性策略的探索问题更为严峻。
+
 27. 不打破数据相关性，神经网络的训练效果为什么就不好？
 28. 画出DQN玩Flappy Bird的流程图。在这个游戏中，状态是什么，状态是怎么转移的？奖赏函数如何设计，有没有奖赏延迟问题？
 29. DQN都有哪些变种？引入状态奖励的是哪种？
