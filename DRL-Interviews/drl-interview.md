@@ -35,8 +35,11 @@
 
 6. 贝尔曼方程的具体数学表达式是什么？
 > 对于状态值函数的贝尔曼方程：
+>
 >![](assets/interview-6-1.png)
+>
 >对于动作值函数的贝尔曼方程：
+>
 >![](assets/interview-6-2.png)
 
 
@@ -92,15 +95,73 @@
 >V(s_t) <-- r_t + \gamma V(s_next)，使用了下一个状态的值函数来估计当前状态的值。
 
 14. 简述动态规划、蒙特卡洛和时间差分的对比（共同点和不同点）
-
+> 此时必须祭出一张图：
+>
+>![](assets/interview-14.png)
+>
+>简单来说，共同点：都是用来估计值函数的一种手段。
+>
+>不同点：
+>
+>MC通过采样求均值的方法求解；DP由于已知模型，因此直接可以计算期望，不用采样，但是DP仍然
+>使用了自举；TD结合了采样和自举
 
 15. MC和TD分别是无偏估计吗？
+> MC是无偏的，TD是有偏的
+
 16. MC、TD谁的方差大，为什么？
+> MC的方差大，以为TD使用了自举，实现一种类似于平滑的效果，所以估计的值函数方差小。
+>
 17. 简述on-policy和off-policy的区别
+> on-policy:行为策略和要优化的策略是一个策略，更新了策略后，就用该策略的最新版本采样数据，
+>。off-policy：使用任意的一个行为策略来收集收据，
+>利用收集的数据更新目标策略。
+>
+>
 18. 简述Q-Learning，写出其Q(s,a)更新公式。它是on-policy还是off-policy，为什么？
+> Q学习是通过计算最优动作值函数来求策略的一种算法，更新公式为：
+>
+>Q(s_t, a_t) <--- Q(s_t, a_t) + \alpha [R_{t+1} + \gamma \max_a Q(s_{t+1}, a) - Q(s_t, a_t)]
+>
+>是离策略的，由于是值更新使用了下一个时刻的argmax_a Q，所以我们只关心哪个动作使得 Q(s_{t+1}, a) 取得最大值，
+>而实际到底采取了哪个动作（行为策略），并不关心。
+>这表明优化策略并没有用到行为策略的数据，所以说它是离策略（off-policy）的。
+>
+>
 19. 写出用第n步的值函数更新当前值函数的公式（1-step，2-step，n-step的意思）。当n的取值变大时，期望和方差分别变大、变小？
+> n-step的更新目标：
+>
+> ![](assets/interview-19-1.png)
+>
+>利用更细目标更新当前值函数，趋近于目标：
+>
+>![](assets/interview-19-2.png)
+>
+>当n越大时，越接近于MC方法，因此方差越大，期望越接近于真实值，偏差越小。
+
+
 20. TD（λ）方法：当λ=0时实际上与哪种方法等价，λ=1呢？
+> 当lambda = 0等价于TD(0);lambda = 1时等价于折扣形式的MC方法。参考[文章](https://zhuanlan.zhihu.com/p/72587762)。
+
 21. 写出蒙特卡洛、TD和TD（λ）这三种方法更新值函数的公式？
+> MC更新公式参考问题14附图（左图公式），如果是单步的TD方法，更新公式参考问题14附图（中），
+>n步的更新参考问题19。TD(lambda)用lambda-return更新值函数，lambda-return是n-step
+>return的加权和，n-step回报的系数为\lmabda^{n-1}，所以lambda-return等于：
+>
+>![](assets/interview-21-1.png)
+>
+>所以TD(lambda)的更新公式只需要把问题19的更新公式中的G_{t:t+n}换成上图的G_t^lambda就行。
+>当然这种更新叫做前向视角，是离线的，因为要计算G_t^n，为了在线更新，需要用到资格迹。定义
+>资格迹为：
+>
+>![](assets/interview-21-2.png)
+>
+>利用资格迹后，值函数可以在线更新为：
+>
+>![](assets/interview-21-3.png)
+>
+>更多的关于TD(lambda)参考[文章](https://amreis.github.io/ml/reinf-learn/2017/11/02/reinforcement-learning-eligibility-traces.html)
+
 22. value-based和policy-based的区别是什么？
 23. DQN的两个关键trick分别是什么？
 24. 阐述目标网络和experience replay的作用？
