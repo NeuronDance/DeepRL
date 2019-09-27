@@ -246,7 +246,7 @@
 
 
 ### 贡献致谢列表
-@名字(仓库地址), ......
+@[huiwenzhang](https://github.com/huiwenzhang)
 
 
 #### 参考及引用链接：
