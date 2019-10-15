@@ -34,3 +34,6 @@
 | N/A     | 2019-05-20 | 2019-05-28 | N/A | [C1 Terminal Season 3](https://terminal.c1games.com/) |
 | N/A     | 2018-12-08 | 2019-06-30 | N/A | [First TextWorld Problems](https://competitions.codalab.org/competitions/20865) |
 | N/A     | 2019-02-11 | 2019-08-01 | N/A | [Obstacle Tower Challenge](https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge) |
+
+
+注：第二部分比赛内容来源于仓库[seungjaeryanlee](https://github.com/seungjaeryanlee/awesome-rl-competitions/blob/master/README.md)，在此表示感谢!
