@@ -100,21 +100,21 @@ AlphaGo、AlphaStar掌门人，UCL公开课主讲人 || [【个人主页】](htt
 ---
 
 ### 5、怎么学习深度强化学习
-[狂补【人工智能领域】数学基础](https://github.com/NeuronDance/DeepRL/tree/master/AI%E5%9F%BA%E7%A1%80%E4%B8%8E%E8%B5%84%E6%96%99)<br>
-[点击进入【基础与课程学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86)<br>
-[点击进入【竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E7%AB%9E%E8%B5%9B)<br>
-[点击进入【开源框架学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
+[狂补【人工智能领域】数学基础](https://github.com/NeuronDance/DeepRL/tree/master/AI-Basic-Resource)<br>
+[点击进入【基础与课程学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL-Course)<br>
+[点击进入【竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL-Competition)<br>
+[点击进入【开源框架学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL-OpenSource)
 
 ### 6.人工智能顶级会议-DRL-paper资料与内容分享
-[点击查看最新顶会论文【NIPS2019】](https://github.com/NeuronDance/DeepRL/blob/master/DRL顶会论文资料与解读/NIPS2019/NIPS2019.md)
-[点击查看更多人工智能顶会论文](https://github.com/NeuronDance/DeepRL/tree/master/DRL顶会论文资料与解读)
+[点击查看最新（经典）顶会（期刊）论文【NIPS2019】](https://github.com/NeuronDance/DeepRL/tree/master/DRL-ConferencePaper)
+
 
 ### 7、最新前沿动态
 
 #### 业界最新资讯：【2019.8.28】
 **DeepMind重磅开源强化学习框架OpenSpiel**
 在这个框架中，实现了28款可用于研究强化学习的棋牌类游戏和24个强化学习中常用的算法，DeepMind的成名作AlphaGo的基础算法也在其列。
-[查看更多最新大事件及详细信息](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E4%BB%B6)
+[查看更多最新大事件及详细信息](https://github.com/NeuronDance/DeepRL/tree/master/DRL-News)
 
 
 ---
@@ -137,13 +137,14 @@ AlphaGo、AlphaStar掌门人，UCL公开课主讲人 || [【个人主页】](htt
 
 #### 联系我们
 #### 交流方式
-[1]、Google[网上论坛](https://groups.google.com/forum/?hl=zh-CN#!forum/deeprl)[需科学上网]<br>
-[2]、微信群聊：加微信助手：NeuronDance，邀请进群<br>
+[1]、微信群聊：加微信助手：NeuronDance，邀请进群<br>
 
 #### 联系方式
 E-mail：wjq_z@qq.com<br>
 CSDN博客：[深度强化学习(DRL)探索](https://blog.csdn.net/gsww404)<br>
-知乎专栏：[DeepRL探索](https://zhuanlan.zhihu.com/deeprl), [DRL论文解读](https://zhuanlan.zhihu.com/drl-paper), [DRL学习](https://zhuanlan.zhihu.com/drl-learning)<br>
+知乎专栏：
+[DeepRL基础探索](https://zhuanlan.zhihu.com/deeprl),
+[DeepRL前沿论文解读](https://zhuanlan.zhihu.com/drl-paper)
 微信公众号：
 
 ![](assets/markdown-img-paste-20190222165438977.png)
