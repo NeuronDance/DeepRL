@@ -1,8 +1,8 @@
 # Deep Reinforcement Learning(深度强化学习)
 
-本仓库由“**深度强化学习实验室(DeepRL-Lab)**”发起并创建，希望能够为所有DRL研究者，学习者和爱好者提供一个交流平台。
+本仓库由“深度强化学习实验室(DeepRL-Lab)”创建，希望能够为所有DRL研究者，学习者和爱好者提供一个交流平台。
 
-深度强化学习实验室成员来自于**学术界和工业界**，*包括清华、山大、浙大、北航、北理工、国防科大、帝国理工、CMU、南洋理工、柏林工业、西悉尼大学等高校，也包含腾讯、阿里巴巴、网易、头条等企业界的伙伴*。有本科、硕士和博士，也有博士后和高校教师等，虽来自不同的高校和企业，但都有一颗相同的心—— “**成为DRL领域的大佬！**”，是梦想让大家汇聚于此。
+深度强化学习实验室成员来自于**学术界和工业界**，*包括清华、山大、浙大、北航、北理工、国防科大、帝国理工、CMU、南洋理工、柏林工业、西悉尼大学等高校，也包含腾讯、阿里巴巴、网易、头条等企业界的伙伴*。有本科、硕士和博士，也有博后和高校教师等，虽来自不同的高校和企业，但都有一颗相同的心—— “**成为DRL领域的大佬！**”，是梦想让大家汇聚于此！
 
 因此DeepRL-Lab将自己的使命定位于“四个帮助”：
 >
@@ -72,7 +72,7 @@ OpenAI是一个非营利性人工智能（AI）研究组织，旨在促进和发
 + 2016年4月27日，OpenAI发布了一个公共测试版“OpenAI Gym”，它是强化学习研究的平台。
 + 2016年12月5日，OpenAI发布了Universe，这是一个软件平台，用于测量和训练AI在全球游戏，网站和其他应用程序中的一般情报。2018年2月21日，马斯克辞去了他的董事会席位，称“与特斯拉AI开发自驾车有潜在的未来冲突（感兴趣）” ，但仍然是捐赠者。
 + 2018年，OpenAI总部位于旧金山的Mission区，与Musk共同创办的另一家公司Neuralink共享一座办公楼。
-#### UC Berkeley [直接访问]()
+#### UC Berkeley [直接访问](https://bair.berkeley.edu)
 
 ---
 
@@ -80,18 +80,19 @@ OpenAI是一个非营利性人工智能（AI）研究组织，旨在促进和发
 ![](assets/markdown-img-paste-20190222191015730.png)
 顺序从左往右：
 >
-+ （1）**Richard Sutton** || [个人主页](http://incompleteideas.net/)
-> 强化学习的祖师爷，著有《Reinforcement Learning: An Introduction》
++ （1）**Richard Sutton** || [个人主页](http://incompleteideas.net/)<br>
+>强化学习的祖师爷，著有《Reinforcement Learning: An Introduction》
 
-+ （2）**David Sliver[DeepMind]** ，||AlphaGo、AlphaStar掌门人，UCL公开课主讲人[【个人主页】](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html),[【Google学术】](https://scholar.google.com/citations?user=-8DNE4UAAAAJ&hl=zh-CN)
++ （2）**David Sliver[DeepMind]**<br>
+AlphaGo、AlphaStar掌门人，UCL公开课主讲人 || [【个人主页】](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html),[【Google学术】](https://scholar.google.com/citations?user=-8DNE4UAAAAJ&hl=zh-CN)<br>
 >他工作重点是将强化学习与深度学习相结合，包括一个学习直接从像素中学习Atari游戏的程序。Silver领导了AlphaGo项目，最终推出了第一个在Go全尺寸游戏中击败顶级职业玩家的计划。 AlphaGo随后获得了荣誉9丹专业认证;并因创新而获得戛纳电影节奖。然后他领导了AlphaZero的开发，它使用相同的AI来学习玩从头开始（仅通过自己玩而不是从人类游戏中学习），然后学习以相同的方式下棋和将棋，比任何其他计算机更高的水平方案
 
 + （3）**Oriol Vinyals[DeepMind]**
->AlphaStar主要负责人<br>
+>AlphaStar主要负责人
 
-
-+ （4）**Pieter Abbeel[UC Berkeley]** [【个人主页】](http://people.eecs.berkeley.edu/~pabbeel/),[【Google学术】](https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=zh-CN)
->机器人和强化学习专家 加州大学伯克利分校教授，EECS，BAIR，CHAI（2008-）
++ （4）**Pieter Abbeel[UC Berkeley]** || [【个人主页】](http://people.eecs.berkeley.edu/~pabbeel/),[【Google学术】](https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=zh-CN)
+>
+机器人和强化学习专家 加州大学伯克利分校教授，EECS，BAIR，CHAI（2008-）
 伯克利机器人学习实验室主任，伯克利人工智能研究（BAIR）实验室联合主任
 联合创始人，总裁兼首席科学家covariant.ai（2017-）
 研究科学家（2016-2017），顾问（2018-）OpenAI
@@ -100,21 +101,21 @@ OpenAI是一个非营利性人工智能（AI）研究组织，旨在促进和发
 ---
 
 ### 5、怎么学习深度强化学习
-[狂补【人工智能领域】数学基础](https://github.com/NeuronDance/DeepRL/tree/master/AI%E5%9F%BA%E7%A1%80%E4%B8%8E%E8%B5%84%E6%96%99)<br>
-[点击进入【基础与课程学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86)<br>
-[点击进入【竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E7%AB%9E%E8%B5%9B)<br>
-[点击进入【开源框架学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
+[狂补【人工智能领域】数学基础](https://github.com/NeuronDance/DeepRL/tree/master/AI-Basic-Resource)<br>
+[点击进入【基础与课程学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL-Course)<br>
+[点击进入【竞赛学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL-Competition)<br>
+[点击进入【开源框架学习】主页](https://github.com/NeuronDance/DeepRL/tree/master/DRL-OpenSource)
 
 ### 6.人工智能顶级会议-DRL-paper资料与内容分享
-[点击查看最新顶会论文【NIPS2019】](https://github.com/NeuronDance/DeepRL/blob/master/DRL顶会论文资料与解读/NIPS2019/NIPS2019.md)
-[点击查看更多人工智能顶会论文](https://github.com/NeuronDance/DeepRL/tree/master/DRL顶会论文资料与解读)
+[点击查看最新（经典）顶会（期刊）论文【NIPS2019】](https://github.com/NeuronDance/DeepRL/tree/master/DRL-ConferencePaper)
+
 
 ### 7、最新前沿动态
 
 #### 业界最新资讯：【2019.8.28】
 **DeepMind重磅开源强化学习框架OpenSpiel**
 在这个框架中，实现了28款可用于研究强化学习的棋牌类游戏和24个强化学习中常用的算法，DeepMind的成名作AlphaGo的基础算法也在其列。
-[查看更多最新大事件及详细信息](https://github.com/NeuronDance/DeepRL/tree/master/DRL%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E4%BB%B6)
+[查看更多最新大事件及详细信息](https://github.com/NeuronDance/DeepRL/tree/master/DRL-News)
 
 
 ---
@@ -137,14 +138,14 @@ OpenAI是一个非营利性人工智能（AI）研究组织，旨在促进和发
 
 #### 联系我们
 #### 交流方式
-[1]、Google[网上论坛](https://groups.google.com/forum/?hl=zh-CN#!forum/deeprl)[需科学上网]<br>
-[2]、微信群聊：加微信助手：NeuronDance，邀请进群<br>
-
+[1]、微信群聊：加微信助手：NeuronDance，邀请进群<br>
 
 #### 联系方式
 E-mail：wjq_z@qq.com<br>
 CSDN博客：[深度强化学习(DRL)探索](https://blog.csdn.net/gsww404)<br>
-知乎专栏：[DeepRL探索](https://zhuanlan.zhihu.com/deeprl), [DRL论文解读](https://zhuanlan.zhihu.com/drl-paper), [DRL学习](https://zhuanlan.zhihu.com/drl-learning)<br>
+知乎专栏：
+[DeepRL基础探索](https://zhuanlan.zhihu.com/deeprl),
+[DeepRL前沿论文解读](https://zhuanlan.zhihu.com/drl-paper)
 微信公众号：
 
 ![](assets/markdown-img-paste-20190222165438977.png)
