@@ -10,16 +10,62 @@
 [4].[Kapoor, Sanyam. "Multi-agent reinforcement learning: A report on challenges and approaches." arXiv preprint arXiv:1807.09427 (2018).](https://arxiv.org/abs/1807.09427)<br>
 
 ### Algorithm
-[1].[(JAL) Claus, Caroline, and Craig Boutilier. "The dynamics of reinforcement learning in cooperative multiagent systems." AAAI/IAAI 1998.746-752 (1998): 2.]( https://www.aaai.org/Papers/AAAI/1998/AAAI98-106.pdf)<br>
-[2].[(Distributed Q-learning) Lauer, Martin, and Martin Riedmiller. "An algorithm for distributed reinforcement learning in cooperative multi-agent systems." In Proceedings of the Seventeenth International Conference on Machine Learning. 2000.]( https://www.researchgate.net/publication/2641625_An_Algorithm_for_Distributed_Reinforcement_Learning_in_Cooperative_Multi-Agent_Systems)<br>
-[3].[(team Q-learning) Littman, Michael L. "Value-function reinforcement learning in Markov games." Cognitive Systems Research 2.1 (2001): 55-66.]( http://www.sts.rpi.edu/~rsun/si-mal/article3.pdf)<br>
-[4].[(FMQ) Kapetanakis, Spiros, and Daniel Kudenko. "Reinforcement learning of coordination in cooperative multi-agent systems." AAAI/IAAI 2002 (2002): 326-331.]( https://www.aaai.org/Papers/AAAI/2002/AAAI02-050.pdf)<br>
-[5].[(OAL) Wang, Xiaofeng, and Tuomas Sandholm. "Reinforcement learning to play an optimal Nash equilibrium in team Markov games." Advances in neural information processing systems. 2003.]( https://papers.nips.cc/paper/2171-reinforcement-learning-to-play-an-optimal-nash-equilibrium-in-team-markov-games.pdf)<br>
-[6].[Qi, Dehu, and Ron Sun. "A multi-agent system integrating reinforcement learning, bidding and genetic algorithms." Web Intelligence and Agent Systems: An International Journal 1.3, 4 (2003): 187-202.]( https://pdfs.semanticscholar.org/2cb8/885ea3d8d6bccde87153f18f8be7f23ff935.pdf)<br>
-[7].[(TEAM-Q) Wang, Ying, and Clarence W. De Silva. "Multi-robot box-pushing: Single-agent q-learning vs. team q-learning." 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems. IEEE, 2006.]( https://ieeexplore.ieee.org/document/4058979)<br>
-[8].[(FMQ) Matignon, Laëtitia, Guillaume Laurent, and Nadine Le Fort-Piat. "A study of FMQ heuristic in cooperative multi-agent games." 2008. ](https://www.researchgate.net/publication/29616600_A_study_of_FMQ_heuristic_in_cooperative_multi-agent_games)<br>
-[9].[(MADDPG) Lowe, Ryan, et al. "Multi-agent actor-critic for mixed cooperative-competitive environments." Advances in Neural Information Processing Systems. 2017.]( https://arxiv.org/abs/1706.02275)<br>
-[10].[Foerster, Jakob N., et al. "Counterfactual multi-agent policy gradients." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.]( https://arxiv.org/abs/1705.08926)<br>
+
+**VDN:**
+
+**Value-Decomposition Networks For Cooperative Multi-Agent Learning** [ AAMAS  2018 ]( https://arxiv.org/pdf/1706.05296.pdf )
+
+**QMIX: **
+
+**Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning** [ ICML 2018 ](https://arxiv.org/pdf/1803.11485.pdf ) 
+
+**JAL:**
+
+[(JAL) Claus, Caroline, and Craig Boutilier. "The dynamics of reinforcement learning in cooperative multiagent systems." AAAI/IAAI 1998.746-752 (1998): 2.]( https://www.aaai.org/Papers/AAAI/1998/AAAI98-106.pdf)<br>
+
+**Distributed Q-learning:**
+
+[(Distributed Q-learning) Lauer, Martin, and Martin Riedmiller. "An algorithm for distributed reinforcement learning in cooperative multi-agent systems." In Proceedings of the Seventeenth International Conference on Machine Learning. 2000.]( https://www.researchgate.net/publication/2641625_An_Algorithm_for_Distributed_Reinforcement_Learning_in_Cooperative_Multi-Agent_Systems)<br>
+
+**Team Q-learning:**
+
+[(team Q-learning) Littman, Michael L. "Value-function reinforcement learning in Markov games." Cognitive Systems Research 2.1 (2001): 55-66.]( http://www.sts.rpi.edu/~rsun/si-mal/article3.pdf)<br>
+
+**FMQ:**
+
+[(FMQ) Kapetanakis, Spiros, and Daniel Kudenko. "Reinforcement learning of coordination in cooperative multi-agent systems." AAAI/IAAI 2002 (2002): 326-331.]( https://www.aaai.org/Papers/AAAI/2002/AAAI02-050.pdf)<br>
+
+**OAL:**
+
+[(OAL) Wang, Xiaofeng, and Tuomas Sandholm. "Reinforcement learning to play an optimal Nash equilibrium in team Markov games." Advances in neural information processing systems. 2003.]( https://papers.nips.cc/paper/2171-reinforcement-learning-to-play-an-optimal-nash-equilibrium-in-team-markov-games.pdf)<br>
+
+
+
+[Qi, Dehu, and Ron Sun. "A multi-agent system integrating reinforcement learning, bidding and genetic algorithms." Web Intelligence and Agent Systems: An International Journal 1.3, 4 (2003): 187-202.]( https://pdfs.semanticscholar.org/2cb8/885ea3d8d6bccde87153f18f8be7f23ff935.pdf)<br>
+
+**TEAM_Q:**
+
+[(TEAM-Q) Wang, Ying, and Clarence W. De Silva. "Multi-robot box-pushing: Single-agent q-learning vs. team q-learning." 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems. IEEE, 2006.]( https://ieeexplore.ieee.org/document/4058979)<br>**FMQ:**
+[(FMQ) Matignon, Laëtitia, Guillaume Laurent, and Nadine Le Fort-Piat. "A study of FMQ heuristic in cooperative multi-agent games." 2008. ](https://www.researchgate.net/publication/29616600_A_study_of_FMQ_heuristic_in_cooperative_multi-agent_games)<br>**MADDPG:**
+
+[(MADDPG) Lowe, Ryan, et al. "Multi-agent actor-critic for mixed cooperative-competitive environments." Advances in Neural Information Processing Systems. 2017.]( https://arxiv.org/abs/1706.02275)<br>
+
+**MARWIL:**
+
+**Exponentially Weighted Imitation Learning for Batched Historical Data** [NIPS 2018]( http://papers.nips.cc/paper/7866-exponentially-weighted-imitation-learning-for-batched-historical-data )
+
+
+
+[Foerster, Jakob N., et al. "Counterfactual multi-agent policy gradients." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.]( https://arxiv.org/abs/1705.08926)<br>
+
+### Code
+
+**QMIX by Ray framework**:  https://github.com/ray-project/ray/tree/master/rllib/agents/qmix (also VDN)
+
+**MADDPG by Ray framework**:  https://github.com/ray-project/ray/blob/master/rllib/contrib/maddpg/maddpg.py 
+
+**MARWIL by Ray framework**:  https://github.com/ray-project/ray/blob/master/rllib/agents/marwil/marwil.py 
+
 
 ### Cooperation
 [1]. [Kok, Jelle R., and Nikos Vlassis. "Sparse cooperative Q-learning." Proceedings of the twenty-first international conference on Machine learning. ACM, 2004.]( https://icml.cc/Conferences/2004/proceedings/papers/267.pdf)<br>
