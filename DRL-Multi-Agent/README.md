@@ -10,6 +10,7 @@
 [4].[Kapoor, Sanyam. "Multi-agent reinforcement learning: A report on challenges and approaches." arXiv preprint arXiv:1807.09427 (2018).](https://arxiv.org/abs/1807.09427)<br>
 
 ### Algorithm
+
 **VDN:**
 
 **Value-Decomposition Networks For Cooperative Multi-Agent Learning** [ AAMAS  2018 ]( https://arxiv.org/pdf/1706.05296.pdf )
@@ -64,6 +65,7 @@
 **MADDPG by Ray framework**:  https://github.com/ray-project/ray/blob/master/rllib/contrib/maddpg/maddpg.py 
 
 **MARWIL by Ray framework**:  https://github.com/ray-project/ray/blob/master/rllib/agents/marwil/marwil.py 
+
 
 ### Cooperation
 [1]. [Kok, Jelle R., and Nikos Vlassis. "Sparse cooperative Q-learning." Proceedings of the twenty-first international conference on Machine learning. ACM, 2004.]( https://icml.cc/Conferences/2004/proceedings/papers/267.pdf)<br>
