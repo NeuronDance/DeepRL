@@ -2,10 +2,16 @@
 
 
 > This document used to display the new papers about Deep Reinforcement Learning
-
-
-Issue# 2：2019-11-3(updating)
+Issue# 3：2019-11-4(updating state)
 ----
+1. [updating]()
+
+
+Issue# 2：2019-11-3
+----
+1. [Learning Fairness in Multi-Agent Systems](https://arxiv.org/abs/1910.14472) by Jiechuan Jiang, Zongqing Lu, NeurIPS'19
+2. [VASE: Variational Assorted Surprise Exploration for Reinforcement Learning](https://arxiv.org/abs/1910.14351) by Haitao Xu, Lech Szymanski.
+3. [RLINK: Deep Reinforcement Learning for User Identity Linkage](https://arxiv.org/abs/1910.14273) by Xiaoxue Li, Jianlong Tan
 
 
 Issue# 1：2019-11-2
