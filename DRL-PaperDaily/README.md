@@ -2,9 +2,21 @@
 
 
 > This document used to display the new papers about Deep Reinforcement Learning
-Issue# 3：2019-11-4(updating state)
+
+Issue# 4：2019-11-5(updating state)
 ----
-1. [updating]()
+1. updating
+
+Issue# 3：2019-11-4
+----
+1. [Robust Model-free Reinforcement Learning with Multi-objective Bayesian Optimization](https://arxiv.org/abs/1910.13399) by Matteo Turchetta, Sebastian Trimpe, ICRA2020
+2. [Certified Adversarial Robustness for Deep Reinforcement Learning](https://arxiv.org/abs/1910.12908) by Björn Lütjens, Jonathan P, CORL2019
+3. [Generalization of Reinforcement Learners with Working and Episodic Memory](https://arxiv.org/abs/1910.13406) by Meire Fortunato, Charles Blundell, NeurIPS 2019
+4. [Constrained Reinforcement Learning Has Zero Duality Gap](https://arxiv.org/abs/1910.13393) by Santiago Paternain, Alejandro Ribeiro
+5. [Feedback Linearization for Unknown Systems via Reinforcement Learning](https://arxiv.org/abs/1910.13272) by Tyler Westenbroek, Claire J. Tomlin
+6.  [Multiplayer AlphaZero](https://arxiv.org/abs/1910.13012) by Nick Petosa, Tucker Balch
+7.  [Generalization of Reinforcement Learners with Working and Episodic Memory](https://arxiv.org/abs/1910.13406) by Meire Fortunato, Charles Blundell, NeurIPS 2019
+
 
 
 Issue# 2：2019-11-3
