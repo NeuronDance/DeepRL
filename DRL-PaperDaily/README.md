@@ -4,17 +4,25 @@
 > This document used to display the latest papers about Deep Reinforcement Learning, 
 
 
-Issue# 5：2019-11-6(updating state)
+
+Issue# 6：2019-11-7(updating)
+---
+1. updating
+
+Issue# 5：2019-11-6
 ----
-1.updating
+1. [Online Robustness Training for Deep Reinforcement Learning](https://arxiv.org/pdf/1911.00887.pdf) by Marc Fischer, Martin Vechev, 2019-11-3
+2. [Maximum Entropy Diverse Exploration: Disentangling Maximum Entropy Reinforcement Learning](https://arxiv.org/pdf/1911.00828.pdf) by Andrew Cohen, Xiangrong Tong, 2019-11
+3. [Gradient-based Adaptive Markov Chain Monte Carlo](https://arxiv.org/pdf/1911.01373.pdf) by Michalis K. Titsias, Petros Dellaportas, NeurIPS 2019
+4. [Keeping Your Distance: Solving Sparse Reward Tasks Using Self-Balancing Shaped Rewards](https://arxiv.org/pdf/1911.01417.pdf) by Alexander Trott, Richard Socher, NeurIPS 2019
+5. [Problem Dependent Reinforcement Learning Bounds Which Can Identify Bandit Structure in MDPs](https://arxiv.org/pdf/1911.00954.pdf) by Andrea Zanette, Emma Brunskill
 
 
 Issue# 4：2019-11-5
 ----
-1. [Learning Fairness in Multi-Agent Systems](https://arxiv.org/abs/1910.14472) by Jiechuan Jiang, Zongqing Lu, NeurIPS'19
-2. [Cascaded LSTMs based Deep Reinforcement Learning for Goal-driven Dialogue](https://arxiv.org/abs/1910.14229) by Yue Ma, Hong Chen, NLPCC 2017
-3. [Dynamic Cloth Manipulation with Deep Reinforcement Learning](https://arxiv.org/abs/1910.14475) by Rishabh Jangir, Carme Torras, ICRA'2020
-4. [Meta-Learning to Cluster](https://arxiv.org/abs/1910.14134) by Yibo Jiang, Nakul Verma
+1. [Cascaded LSTMs based Deep Reinforcement Learning for Goal-driven Dialogue](https://arxiv.org/abs/1910.14229) by Yue Ma, Hong Chen, NLPCC 2017
+2. [Dynamic Cloth Manipulation with Deep Reinforcement Learning](https://arxiv.org/abs/1910.14475) by Rishabh Jangir, Carme Torras, ICRA'2020
+3. [Meta-Learning to Cluster](https://arxiv.org/abs/1910.14134) by Yibo Jiang, Nakul Verma
 
 
 Issue# 3：2019-11-4
