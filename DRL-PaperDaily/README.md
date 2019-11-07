@@ -3,13 +3,17 @@
 
 > This document used to display the latest papers about Deep Reinforcement Learning, 
 
-
-
-Issue# 6：2019-11-7(updating)
----
+Issue# 7：2019-11-9(updating state)
+----
 1. updating
 
-Issue# 5：2019-11-6
+Issue# 6：2019-11-8
+----
+1. [Gym-Ignition: Reproducible Robotic Simulations for Reinforcement Learning](https://arxiv.org/abs/1911.01715) by Diego Ferigo, Daniele Pucci, Accepted in SII2020
+2. [DeepRacer: Educational Autonomous Racing Platform for Experimentation with Sim2Real Reinforcement Learning](https://arxiv.org/abs/1911.01562) by Bharathan Balaji, Dhanasekar Karuppasamy
+
+
+Issue# 5：2019-11-7
 ----
 1. [Online Robustness Training for Deep Reinforcement Learning](https://arxiv.org/pdf/1911.00887.pdf) by Marc Fischer, Martin Vechev, 2019-11-3
 2. [Maximum Entropy Diverse Exploration: Disentangling Maximum Entropy Reinforcement Learning](https://arxiv.org/pdf/1911.00828.pdf) by Andrew Cohen, Xiangrong Tong, 2019-11
