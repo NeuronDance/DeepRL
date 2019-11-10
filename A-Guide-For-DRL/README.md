@@ -1,11 +1,13 @@
 ## A Guide Resource for Deep Reinforcement Learning
 
-> **1. About this work**: 
-This deep intensive learning database was initiated by the 【 *Deep Reinforcement Learning Laboratory(DeepRL-Lab)* 】and was jointly created by more than ** Ph.D. doctors and experts in the field. The goal is to enable each learner to make rapid progress and acquire relevant knowledge. <br>
+**1. About this work**: 
+> This deep intensive learning database was initiated by the 【 *Deep Reinforcement Learning Laboratory(DeepRL-Lab)* 】and was jointly created by more than ** Ph.D. doctors and experts in the field. The goal is to enable each learner to make rapid progress and acquire relevant knowledge. <br>
+
 **2. How to contribute？**: 
-This project welcomes the contribution of each reinforcement learner, can be submitted according to their knowledge accumulation in a certain direction, and will be included in the list of contributors.<br>
+> This project welcomes the contribution of each reinforcement learner, can be submitted according to their knowledge accumulation in a certain direction, and will be included in the list of contributors.<br>
+
 **3. How to communicate？**: 
-Welcome to the WeChat public (Deep-RL) and add WeChat Assistant (NeuronDance), note: "Name - School / Unit - Direction"
+> Welcome to the WeChat public (Deep-RL) and add WeChat Assistant (NeuronDance), note: "Name - School / Unit - Direction"
 
 
 ---
@@ -29,7 +31,7 @@ Contents
 -----
 1. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard S. Sutton and Andrew G. Barto (2017),[Chinese-Edtion](https://rl.qiwihui.com/zh_CN/latest/index.html), [Code](http://www.incompleteideas.net/book/code/code2nd.html)
 2. [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) by Csaba Szepesvari (updated 2019)
-3. [Deep Reinforcement Learning Hands-On]((https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240)) by Maxim Lapan (2018),[Code](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
+3. [Deep Reinforcement Learning Hands-On](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240) by Maxim Lapan (2018),[Code](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 4. [Reinforcement learning, State-Of-The- Art](https://github.com/yangmingustb/planning_books_1/blob/master/Reinforcement%20learning%20state%20of%20the%20art.pdf) by Marco Wiering, Martijin van Otterlo
 5. [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) by Alexander Zai and Brandon Brown (in progress)
 6. [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) by Miguel Morales (in progress)
