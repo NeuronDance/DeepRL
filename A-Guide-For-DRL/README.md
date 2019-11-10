@@ -1,9 +1,9 @@
 ## A Guide Resource for Deep Reinforcement Learning
 
 > **1. About this work**: 
-This deep intensive learning database was initiated by the 【 *Deep Reinforcement Learning Laboratory(DeepRL-Lab)* 】and was jointly created by more than ** Ph.D. doctors and experts in the field. The goal is to enable each learner to make rapid progress and acquire relevant knowledge. 
+This deep intensive learning database was initiated by the 【 *Deep Reinforcement Learning Laboratory(DeepRL-Lab)* 】and was jointly created by more than ** Ph.D. doctors and experts in the field. The goal is to enable each learner to make rapid progress and acquire relevant knowledge. <br>
 **2. How to contribute？**: 
-This project welcomes the contribution of each reinforcement learner, can be submitted according to their knowledge accumulation in a certain direction, and will be included in the list of contributors.
+This project welcomes the contribution of each reinforcement learner, can be submitted according to their knowledge accumulation in a certain direction, and will be included in the list of contributors.<br>
 **3. How to communicate？**: 
 Welcome to the WeChat public (Deep-RL) and add WeChat Assistant (NeuronDance), note: "Name - School / Unit - Direction"
 
@@ -25,7 +25,6 @@ Contents
 - __[12.Contributors](#Cite)__
 
 ---
-
 #1. Books
 -----
 1. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard S. Sutton and Andrew G. Barto (2017),[Chinese-Edtion](https://rl.qiwihui.com/zh_CN/latest/index.html), [Code](http://www.incompleteideas.net/book/code/code2nd.html)
@@ -39,10 +38,8 @@ Contents
 9. [Hands-On Reinforcement Learning with Python(百度云链接)]()
 10. [Reinforcement Learning And Optimal Control](http://web.mit.edu/dimitrib/www/RLbook.html) by Dimitri P. Bertsekas, 2019
 
-> Note：Some Chinese books for the purpose of making money are not recommended here.
 
 ---
-
 #2. Courses
 ----
 1. [UCL Course on RL(★★★)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Sliver, [Video-en](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ),[Video-zh](https://www.bilibili.com/video/av51567407/)
@@ -945,15 +942,15 @@ Cite
 
 >  Based on the above information, we have made a comprehensive summary of the deep reinforcement of learning materials, and we would like to express our heartfelt thanks to them.
 
-[1].https://github.com/brianspiering/awesome-deep-rl#talks
-[2].https://github.com/jgvictores/awesome-deep-reinforcement-learning
-[3].https://github.com/PaddlePaddle/PARL/blob/develop/papers/archive.md#distributed-training
-[4].https://github.com/LantaoYu/MARL-Papers
-[5].https://github.com/gopala-kr/DRL-Agents
-[6].https://github.com/junhyukoh/deep-reinforcement-learning-papers
-[7].https://www.eff.org/ai/metrics#Source-Code
-[8].https://agi.university/the-landscape-of-deep-reinforcement-learning
-[9].https://github.com/tigerneil/awesome-deep-rl
-[10].https://planspace.org/20170830-berkeley_deep_rl_bootcamp/
-[11].https://aikorea.org/awesome-rl/
-[12].https://github.com/junhyukoh/deep-reinforcement-learning-papers
+[1].https://github.com/brianspiering/awesome-deep-rl <br>
+[2].https://github.com/jgvictores/awesome-deep-reinforcement-learning<br>
+[3].https://github.com/PaddlePaddle/PARL/blob/develop/papers/archive.md#distributed-training<br>
+[4].https://github.com/LantaoYu/MARL-Papers<br>
+[5].https://github.com/gopala-kr/DRL-Agents<br>
+[6].https://github.com/junhyukoh/deep-reinforcement-learning-papers<br>
+[7].https://www.eff.org/ai/metrics#Source-Code<br>
+[8].https://agi.university/the-landscape-of-deep-reinforcement-learning<br>
+[9].https://github.com/tigerneil/awesome-deep-rl<br>
+[10].https://planspace.org/20170830-berkeley_deep_rl_bootcamp/<br>
+[11].https://aikorea.org/awesome-rl/<br>
+[12].https://github.com/junhyukoh/deep-reinforcement-learning-papers<br>
