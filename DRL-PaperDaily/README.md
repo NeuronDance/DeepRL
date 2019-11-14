@@ -3,9 +3,22 @@
 
 > This document used to display the latest papers about Deep Reinforcement Learning, 
 
-Issue# 7：2019-11-9(updating state)
+
+
+
+
+### Continuous updating.......
+
+
+Issue# 7：2019-11-15
 ----
-1. updating
+1. [Fully Bayesian Recurrent Neural Networks for Safe Reinforcement Learning](https://arxiv.org/abs/1911.03308) by Matt Benatan, Edward O. Pyzer-Knapp
+2. [Model-free Reinforcement Learning with Robust Stability Guarantee](https://arxiv.org/abs/1911.02875) by Minghao Han, Wei Pan, NeurIPS 2019 Workshop on Robot Learning: Control and Interaction in the Real World, Vancouver, Canada
+3. [Option Compatible Reward Inverse Reinforcement Learning](https://arxiv.org/abs/1911.02723) by  Rakhoon Hwang, Hyung Ju Hwang
+4. [Deep Reinforcement Learning for Distributed Uncoordinated Cognitive Radios Resource Allocation](https://arxiv.org/abs/1911.03366) by Ankita Tondwalkar, Andres Kwasinski,  submitted in the IEEE ICC 2020 Conference
+5. [Experienced Deep Reinforcement Learning with Generative Adversarial Networks (GANs) for Model-Free Ultra Reliable Low Latency Communication](https://arxiv.org/abs/1911.03264) by  Ali Taleb Zadeh Kasgari, H. Vincent Poor
+6. [Mapless Navigation among Dynamics with Social-safety-awareness: a reinforcement learning approach from 2D laser scans](https://arxiv.org/abs/1911.03074) by Jun Jin, Martin Jagersand
+
 
 Issue# 6：2019-11-8
 ----
