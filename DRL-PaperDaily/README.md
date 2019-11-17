@@ -10,6 +10,17 @@
 ### Continuous updating.......
 
 
+
+Issue# 8：2019-11-18
+----
+1. [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448) by Simon Ramstedt, Christopher Pal
+2. [Provably Convergent Off-Policy Actor-Critic with Function Approximation](https://arxiv.org/abs/1911.04384) by Shangtong Zhang, Shimon Whiteson, Optimization Foundations of Reinforcement Learning Workshop at NeurIPS 2019
+3. [Driving Reinforcement Learning with Models](https://arxiv.org/abs/1911.04400) by  Pietro Ferraro, Giovanni Russo
+4. [Non-Cooperative Inverse Reinforcement Learning](https://arxiv.org/abs/1911.04220) by  Xiangyuan Zhang, Tamer Başar
+5. [Learning to reinforcement learn for Neural Architecture Search](https://arxiv.org/abs/1911.03769) by  J. Gomez Robles, J. Vanschoren
+
+
+
 Issue# 7：2019-11-15
 ----
 1. [Fully Bayesian Recurrent Neural Networks for Safe Reinforcement Learning](https://arxiv.org/abs/1911.03308) by Matt Benatan, Edward O. Pyzer-Knapp
