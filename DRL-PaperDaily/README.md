@@ -5,9 +5,15 @@
 
 
 
-
-
 ### Continuous updating.......
+
+
+
+Issue# 9：2019-12-3
+----
+1. [Learning Representations in Reinforcement Learning:An Information Bottleneck Approach](https://arxiv.org/abs/1911.05695) by Pei Yingjun, Hou Xinwen
+2. [Learning to Communicate in Multi-Agent Reinforcement Learning : A Review()](https://arxiv.org/abs/1911.05438) by  Mohamed Salah Zaïem, Etienne Bennequin
+3. [Accelerating Training in Pommerman with Imitation and Reinforcement Learning](https://arxiv.org/abs/1911.04947) by  Hardik Meisheri, Harshad Khadilkar, Presented at Deep Reinforcement Learning workshop, NeurIPS-2019(★★)
 
 
 
