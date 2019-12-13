@@ -3,9 +3,17 @@
 
 > This document used to display the latest papers about Deep Reinforcement Learning, 
 
-
-
 ### Continuous updating.......
+Issue# 10：2019-12-13
+----
+1. [On-policy Reinforcement Learning with Entropy Regularization](https://arxiv.org/abs/1912.01557) by Jingbin Liu, Shuai Liu
+2. [Human-Robot Collaboration via Deep Reinforcement Learning of Real-World Interactions](https://arxiv.org/abs/1912.01715) by Jonas Tjomsland, A. Aldo Faisal,  **NeurIPS'19** Workshop on Robot Learning: Control and Interaction in the Real World
+3. [Iterative Policy-Space Expansion in Reinforcement Learning](https://arxiv.org/abs/1912.02532) by Jan Malte Lichtenberg, Özgür Şimşek, **NeurIPS 2019**
+4. [Deep Model Compression via Deep Reinforcement Learning](https://arxiv.org/abs/1912.02254) by Huixin Zhan, Yongcan Cao
+5. [Observational Overfitting in Reinforcement Learning](https://arxiv.org/abs/1912.02975) by Xingyou Song, Behnam Neyshabur
+6. [Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions](https://arxiv.org/abs/1912.02875) by Juergen Schmidhuber
+7. [Learning Sparse Representations Incrementally in Deep Reinforcement Learning](https://arxiv.org/abs/1912.04002) by  Fernando Hernandez-Garcia, **Richard S. Sutton**
+89. [Entropy Regularization with Discounted Future State Distribution in Policy Gradient Methods](https://arxiv.org/abs/1912.05104) by Riashat Islam, Doina Precup, **NeurIPS2019** Optimization Foundations of Reinforcement Learning Workshop
 
 
 
