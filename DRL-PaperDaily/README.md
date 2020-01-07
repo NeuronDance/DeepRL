@@ -4,6 +4,31 @@
 > This document used to display the latest papers about Deep Reinforcement Learning, 
 
 ### Continuous updating.......
+
+Issue# 11：2020-1-20
+----
+1. [Direct and indirect reinforcement learning](https://arxiv.org/abs/1912.10600) by  Yang Guan, Bo Cheng
+2. [Parameterized Indexed Value Function for Efficient Exploration in Reinforcement Learning](https://arxiv.org/abs/1912.10577) by  Tian Tan, Vikranth R. Dwaracherla
+3. [Continuous-Discrete Reinforcement Learning for Hybrid Control in Robotics](https://arxiv.org/abs/2001.00449) by Michael Neunert, Martin Riedmiller, Presented at the 3rd Conference on Robot Learning (CoRL 2019)
+4. [Meta Reinforcement Learning with Autonomous Inference of Subtask Dependencies](https://arxiv.org/abs/2001.00248) by Sungryull Sohn, Honglak Lee, ICLR2020
+5. [Long-Term Visitation Value for Deep Exploration in Sparse Reward Reinforcement Learning](https://arxiv.org/abs/2001.00119) by Simone Parisi, Joni Pajarinen
+6. [Optimal Options for Multi-Task Reinforcement Learning Under Time Constraints](https://arxiv.org/abs/2001.01620) by  Manuel Del Verme, Gianluca Baldassarre
+7. [MushroomRL: Simplifying Reinforcement Learning Research](https://arxiv.org/abs/2001.01102) by Carlo D'Eramo, Jan Peters
+
+Issue# 11：2020-1-10
+----
+
+1. [Predictive Coding for Boosting Deep Reinforcement Learning with Sparse Rewards](https://arxiv.org/abs/1912.13414) by Xingyu Lu, Pieter Abbeel 
+2. Interestingness Elements for Explainable Reinforcement Learning: Understanding Agents' Capabilities and Limitations](https://arxiv.org/abs/1912.09007) byPedro Sequeira, Melinda Gervasio
+3. [Reward-Conditioned Policies](https://arxiv.org/abs/1912.13465) by Aviral Kumar, Sergey Levine 
+4. [Pseudo Random Number Generation: a Reinforcement Learning approach](https://arxiv.org/abs/1912.11531) by Luca Pasqualini, Maurizio Parton
+5. [Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach](https://arxiv.org/abs/1912.09135) by Yingying Li, Na Li
+6. [Deep Reinforcement Learning for Motion Planning of Mobile Robots](https://arxiv.org/abs/1912.09260) by Leonid Butyrev, Christopher Mutschler
+
+Issue# 11：2019-12-19
+----
+later updating......
+
 Issue# 10：2019-12-13
 ----
 1. [On-policy Reinforcement Learning with Entropy Regularization](https://arxiv.org/abs/1912.01557) by Jingbin Liu, Shuai Liu
