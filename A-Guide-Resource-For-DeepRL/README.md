@@ -44,6 +44,7 @@ Contents
 ---
 #2. Courses
 ----
+
 1. [UCL Course on RL(★★★)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Sliver, [Video-en](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ),[Video-zh](https://www.bilibili.com/video/av51567407/)
 2. [OpenAI's Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) by OpenAI(2018)
 3. [Udacity-Deep Reinforcement learning](https://cn.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893-cn), 2019-10-31
