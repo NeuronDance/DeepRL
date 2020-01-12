@@ -523,6 +523,9 @@ Contents
 ---
 
 #11. Paper-Resources
+2020-01
+updating AAAI-2020 conference(detail in /ConferencePaper/AAAI/2020)
+
 ----
 2019-07
 
