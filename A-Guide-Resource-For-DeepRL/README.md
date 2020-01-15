@@ -7,7 +7,7 @@
 > This project welcomes the contribution of each reinforcement learner, can be submitted according to their knowledge accumulation in a certain direction, and will be included in the list of contributors.<br>
 
 **3. How to communicate？**: 
-> Welcome to the WeChat public (Deep-RL) and add WeChat Assistant (NeuronDance), note: "Name - School / Unit - Direction"
+> Welcome to the WeChat public (Deep-RL) and add WeChat Assistant (NeuronDance)
 
 
 ---
