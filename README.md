@@ -16,9 +16,9 @@
 ### 1、Deep Reinforcement Learning？
 时间 |   内容| 
 -|-|
-2015年10月 | 由Google-DeepMind公司开发的AlphaGo程序击败了人类高级选手樊麾，成为第一个无需让子即可在19路棋盘上击败围棋职业棋手的计算机围棋程序，并写进了历史，论文发表在国际顶级期刊《Science》上| 
-2016年3月| 透过自我对弈数以万计盘进行练习强化，AlphaGo在一场五番棋比赛中4:1击败顶尖职业棋手李世石。|
-2016年12月|Master(AlphaGo版本)开始出现于弈城围棋网和腾讯野狐围棋网，取得60连胜的成绩，以其空前的实力轰动了围棋界。|
+2015.10 | 由Google-DeepMind公司开发的AlphaGo程序击败了人类高级选手樊麾，成为第一个无需让子即可在19路棋盘上击败围棋职业棋手的计算机围棋程序，并写进了历史，论文发表在国际顶级期刊《Science》上| 
+2016.3| 透过自我对弈数以万计盘进行练习强化，AlphaGo在一场五番棋比赛中4:1击败顶尖职业棋手李世石。|
+2016.12|Master(AlphaGo版本)开始出现于弈城围棋网和腾讯野狐围棋网，取得60连胜的成绩，以其空前的实力轰动了围棋界。|
 -|DeepMind 如约公布了他们最新版AlphaGo论文(Nature)，介绍了迄今最强最新的版本AlphaGo Zero，使用纯强化学习，将价值网络和策略网络整合为一个架构，3天训练后就以100比0击败了上一版本的AlphaGo。AlphaGo已经退休，但技术永存。DeepMind已经完成围棋上的概念证明，接下来就是用强化学习创造改变世界的价值。|
 
 围棋被攻克证明了强化学习发展的威力，作为AlphoGo的带头人，强化学习界的大神，David Sliver提出人工智能的终极目标是：
@@ -58,9 +58,6 @@ UC Berkeley||[Access1](https://bair.berkeley.edu)<br>[Access2](http://hart.berke
 
 
 ### 4、业界大佬有哪些？
-![](assets/markdown-img-paste-20190222191015730.png)
-顺序从左往右：
->
 Name|Company| Homepage|about|
 -|-|-|-|
 **Richard Sutton**|Deepmind|[page](http://incompleteideas.net/)|强化学习的祖师爷，著有《Reinforcement Learning: An Introduction》|
@@ -70,7 +67,7 @@ Name|Company| Homepage|about|
 
 
 ### 5、如何学习?
-x内容|学习方法与资料|
+内容|学习方法与资料|
 -|-|
 补充数学基础(高数、线代、概率论)|[Access](https://github.com/NeuronDance/DeepRL/tree/master/AI-Basic-Resource)|
 基础与课程学习|[Access](https://github.com/NeuronDance/DeepRL/tree/master/DRL-Course)<br>
@@ -83,13 +80,10 @@ x内容|学习方法与资料|
 
 
 ### 6、关于深度强化学习实验室
-|发起人|J.Q.Wang||
--|-|-|-|-|
+发起人|J.Q.Wang|-|
+-|-|-|
 成员|包含教授、讲师、博士、硕士、本科、|**学术界**:清华、北大、山大、浙大、北航、东南、南大、大工、天大、中科大、北理工、国防科大、牛津大学、帝国理工、CMU、南洋理工、柏林工业、西悉尼大学、埃默里大学等<br>**工业界**:腾讯、阿里巴巴、网易、头条、华为、快手等|
 愿景|DeepRL|[1]. 提供最全面的深度强化学习书籍、资料、综述等学习资源。<br>[2]. 阐述深度强化学习的基本原理、前沿算法、场景应用、竞赛分析、论文分享等专业知识。<br>[3]. 分享最前沿的业界动态和行业发展趋势。<br>[4]. 成为所有深度强化学习领域的研究者与爱好者交流平台。
-
-
-
 
 ### @致谢
 欢迎每一位伙伴积极为项目贡献微薄之力，共同点亮星星之火。<br>
@@ -104,7 +98,7 @@ x内容|学习方法与资料|
 
 #### @联系方式
 Title||
--|-|-|
+-|-|
 微信群聊|加微信助手：NeuronDance(进交流群)|
 联系邮箱|wjq_z@qq.com|
 CSDN博客|[深度强化学习(DRL)探索](https://blog.csdn.net/gsww404)<br>|
