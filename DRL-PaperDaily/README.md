@@ -3,9 +3,30 @@
 
 > This document used to display the latest papers about Deep Reinforcement Learning, 
 
-### Continuous updating.......
+### Continuous updating......
 
-Issue# 11：2020-1-20
+Issue# 15：2020-2-20
+----
+1. [Locally Private Distributed Reinforcement Learning](https://arxiv.org/abs/2001.11718) by Hajime Ono, Tsubasa Takahashi
+2. [Effective Diversity in Population-Based Reinforcement Learning](https://arxiv.org/abs/2002.00632) by Jack Parker-Holder, Stephen Roberts
+3. [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/abs/2002.00444) by B Ravi Kiran, Patrick Pérez
+4. [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/abs/2002.02095) by Yun-Zhu Song, AAAI 2020
+5. [Asymptotically Efficient Off-Policy Evaluation for Tabular Reinforcement Learning](https://arxiv.org/abs/2001.10742) by Ming Yin, Yu-Xiang Wang (Includes appendix. Accepted for AISTATS 2020)
+
+
+Issue# 14：2020-2-10
+----
+1. [Model-based Multi-Agent Reinforcement Learning with Cooperative Prioritized Sweeping](https://arxiv.org/abs/2001.07527) by Eugenio Bargiacchi, Ann Nowé
+2. [Reinforcement Learning with Probabilistically Complete Exploration](https://arxiv.org/abs/2001.06940) by Philippe Morere, Fabio Ramos
+3. [Algorithms in Multi-Agent Systems: A Holistic Perspective from Reinforcement Learning and Game Theory](https://arxiv.org/abs/2001.06487) by Yunlong Lu, Kai Yan
+4. [Local Policy Optimization for Trajectory-Centric Reinforcement Learning](https://arxiv.org/abs/2001.08092) by Patrik Kolaric, Daniel Nikovski
+5. [On Simple Reactive Neural Networks for Behaviour-Based Reinforcement Learning](https://arxiv.org/abs/2001.07973) by Ameya Pore, Gerardo Aragon-Camarasa
+6. [Graph Constrained Reinforcement Learning for Natural Language Action Spaces](https://arxiv.org/abs/2001.08837) by Prithviraj Ammanabrolu, Matthew Hausknecht(Accepted to ICLR 2020)
+7. [Challenges and Countermeasures for Adversarial Attacks on Deep Reinforcement Learning](https://arxiv.org/abs/2001.09684) by Inaam Ilahi, Dusit Niyato
+8. [Active Task-Inference-Guided Deep Inverse Reinforcement Learning](https://arxiv.org/abs/2001.09227) by Farzan Memarian, Ufuk Topcu
+
+
+Issue# 13：2020-1-20
 ----
 1. [Direct and indirect reinforcement learning](https://arxiv.org/abs/1912.10600) by  Yang Guan, Bo Cheng
 2. [Parameterized Indexed Value Function for Efficient Exploration in Reinforcement Learning](https://arxiv.org/abs/1912.10577) by  Tian Tan, Vikranth R. Dwaracherla
@@ -15,7 +36,7 @@ Issue# 11：2020-1-20
 6. [Optimal Options for Multi-Task Reinforcement Learning Under Time Constraints](https://arxiv.org/abs/2001.01620) by  Manuel Del Verme, Gianluca Baldassarre
 7. [MushroomRL: Simplifying Reinforcement Learning Research](https://arxiv.org/abs/2001.01102) by Carlo D'Eramo, Jan Peters
 
-Issue# 11：2020-1-10
+Issue# 12：2020-1-10
 ----
 
 1. [Predictive Coding for Boosting Deep Reinforcement Learning with Sparse Rewards](https://arxiv.org/abs/1912.13414) by Xingyu Lu, Pieter Abbeel 
