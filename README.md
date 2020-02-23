@@ -103,5 +103,6 @@ Title||
 联系邮箱|wjq_z@qq.com|
 CSDN博客|[深度强化学习(DRL)探索](https://blog.csdn.net/gsww404)<br>|
 知乎专栏|[DeepRL基础探索](https://zhuanlan.zhihu.com/deeprl)/[DeepRL前沿论文解读](https://zhuanlan.zhihu.com/drl-paper)
-微信公众号|如下图
+微信公众号|如下图|
+
 ![](assets/markdown-img-paste-20190222165438977.png)
