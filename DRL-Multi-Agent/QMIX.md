@@ -8,7 +8,7 @@
 
 ## Algorithm
 
-## ![img](D:\Github\DeepRL_skylark\DRL-Multi-Agent\QMIX.assets\v2-98cea01bf7d7d2239d4d50460a57e6cf_hd.jpg)![img](D:\Github\DeepRL_skylark\DRL-Multi-Agent\QMIX.assets\v2-79fe8838e84d6def61e3db6cf7332428_hd.jpg)
+## ![img](./QMIX.assets/v2-98cea01bf7d7d2239d4d50460a57e6cf_hd.jpg)![img](./QMIX.assets/v2-79fe8838e84d6def61e3db6cf7332428_hd.jpg)
 
 ## Paper
 
