@@ -29,6 +29,8 @@
 
 •    层次化学习相关的文章
 
+
+
 ### 值函数相关的文章
 
 Model-Free Episodic Control, C. Blundell et al., arXiv, 2016.  <br>
@@ -67,7 +69,6 @@ Massively Parallel Methods for Deep Reinforcement Learning, A. Nair et al., ICML
 Human-level control through deep reinforcement learning, V. Mnih et al., Nature, 2015.<br>
 Playing Atari with Deep Reinforcement Learning, V. Mnih et al., NIPS Workshop, 2013.<br>
 
-
 ### 策略相关的文章
 
 Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks, R. Houthooft et al., arXiv, 2016.<br>
@@ -85,7 +86,6 @@ High-Dimensional Continuous Control Using Generalized Advantage Estimation, J. S
 End-to-End Training of Deep Visuomotor Policies, S. Levine et al., arXiv, 2015.<br>
 Deterministic Policy Gradient Algorithms, D. Silver et al., ICML, 2015.<br>
 Trust Region Policy Optimization, J. Schulman et al., ICML, 2015.<br>
-
 
 ### 离散控制相关的文章
 
@@ -259,21 +259,44 @@ Human-level control through deep reinforcement learning, V. Mnih et al., Nature,
 Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, X. Guo et al., NIPS, 2014.<br>
 Playing Atari with Deep Reinforcement Learning, V. Mnih et al., NIPS Workshop, 2013.<br>
 
-
 ### 蒙特卡洛树搜索相关的文章
 
 Mastering the game of Go with deep neural networks and tree search, D. Silver et al., Nature, 2016.<br>
 Better Computer Go Player with Neural Network and Long-term Prediction, Y. Tian et al., ICLR, 2016.<br>
 Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, X. Guo et al., NIPS, 2014.<br>
 
-
 ### 逆强化学习相关的文章
+
+Optiongan: Learning joint reward-policy options using generative adversarial inverse reinforcement learning, Henderson P, Chang W D, Bacon P L, et al.AAAI, 2018.<br>
+
+[One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL](https://arxiv.org/abs/1810.05017), Le Paine et al, 2018. **Algorithm: MetaMimic.**
+
+[DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/2018_TOG_DeepMimic.pdf), Peng et al, 2018. **Algorithm: DeepMimic.**<br>
+
+[Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://arxiv.org/abs/1810.00821), Peng et al, 2018. **Algorithm: VAIL.**<br>
+
+Generative adversarial imitation learning, Ho J, Ermon S. Advances in neural information processing systems. 2016.<br>
 
 Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, C. Finn et al., arXiv, 2016.<br>
 Maximum Entropy Deep Inverse Reinforcement Learning, M. Wulfmeier et al., arXiv, 2015.<br>
 
+[Modeling Purposeful Adaptive Behavior with the Principle of Maximum Causal Entropy](http://www.cs.cmu.edu/~bziebart/publications/thesis-bziebart.pdf), Ziebart 2010. **Contributions:** Crisp formulation of maximum entropy IRL<br>
 
 ### 多任务和迁移学习相关的文章
+
+[Learning an Embedding Space for Transferable Robot Skills](https://openreview.net/forum?id=rk07ZXZRb&noteId=rk07ZXZRb), Hausman et al, 2018<br>
+
+[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495), Andrychowicz et al, 2017. **Algorithm: Hindsight Experience Replay (HER)**<br>
+
+[The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300), Cabi et al, 2017. **Algorithm: IU Agent.**<br>
+
+[PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734), Fernando et al, 2017. **Algorithm: PathNet**<br>
+
+[Mutual Alignment Transfer Learning](https://arxiv.org/abs/1707.07907), Wulfmeier et al, 2017. **Algorithm: MATL**<br>
+
+[Progressive Neural Networks](https://arxiv.org/abs/1606.04671), Rusu et al, 2016. **Algorithm: Progressive Networks.**<br>
+
+[Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397), Jaderberg et al, 2016. **Algorithm: UNREAL**<br>
 
 Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning, E. Parisotto, et al., ICLR, 2016.<br>
 Policy Distillation, A. A. Rusu et at., ICLR, 2016.<br>
@@ -281,6 +304,7 @@ ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources, 
 Universal Value Function Approximators, T. Schaul et al., ICML, 2015.<br>
 
 ### 搜索优化相关的文章
+
 Unifying Count-Based Exploration and Intrinsic Motivation, M. G. Bellemare et al., arXiv, 2016.<br>
 Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks, R. Houthooft et al., arXiv, 2016.<br>
 Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, T. D. Kulkarni et al., arXiv, 2016.<br>
@@ -293,13 +317,18 @@ Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models,
 Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks, J. N. Foerster et al., arXiv, 2016.<br>
 Multiagent Cooperation and Competition with Deep Reinforcement Learning, A. Tampuu et al., arXiv, 2015.<br>
 
-
 ### 层次化学习相关的文章
 
+[Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296), Nachum et al, 2018. **Algorithm: HIRO**<br>
+
+[]FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161), Vezhnevets et al, 2017. **Algorithm: Feudal Networks**<br>
+
 Deep Successor Reinforcement Learning, T. D. Kulkarni et al., arXiv, 2016.<br>
+
+[Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695), Vezhnevets et al, 2016. **Algorithm: STRAW**<br>
+
 Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks, R. Krishnamurthy et al., arXiv, 2016.<br>
 Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, T. D. Kulkarni et al., arXiv, 2016.<br>
-
 
 特别致谢
 本部分内容参考[链接](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
