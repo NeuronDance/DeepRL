@@ -80,7 +80,6 @@ Name|Company| Homepage|about|
 
 
 ### 6、关于深度强化学习实验室
-发起人|J.Q.Wang|-|
 -|-|-|
 成员|包含教授、讲师、博士、硕士、本科、|**学术界**:清华、北大、山大、浙大、北航、东南、南大、大工、天大、中科大、北理工、国防科大、牛津大学、帝国理工、CMU、南洋理工、柏林工业、西悉尼大学、埃默里大学等<br>**工业界**:腾讯、阿里巴巴、网易、头条、华为、快手等|
 愿景|DeepRL|[1]. 提供最全面的深度强化学习书籍、资料、综述等学习资源。<br>[2]. 阐述深度强化学习的基本原理、前沿算法、场景应用、竞赛分析、论文分享等专业知识。<br>[3]. 分享最前沿的业界动态和行业发展趋势。<br>[4]. 成为所有深度强化学习领域的研究者与爱好者交流平台。
@@ -100,7 +99,6 @@ Name|Company| Homepage|about|
 Title||
 -|-|
 微信群聊|加微信助手：NeuronDance(进交流群)|
-联系邮箱|wjq_z@qq.com|
 CSDN博客|[深度强化学习(DRL)探索](https://blog.csdn.net/gsww404)<br>|
 知乎专栏|[DeepRL基础探索](https://zhuanlan.zhihu.com/deeprl)/[DeepRL前沿论文解读](https://zhuanlan.zhihu.com/drl-paper)
 微信公众号|如下图|
